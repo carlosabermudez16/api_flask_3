@@ -1,0 +1,20 @@
+APIrest que permite que cualquiera pueda consumirla
+ya que se subirá a la web.
+Nosotros utilizaremos Heroku, el cual es una plataforma
+de servicios en la nube conocido como PaaS(plataforma como un servicio)
+en donde se pueden alojar proyectos en su hosting.
+
+A Heroku solo le dices qué lenguaje de backend estás utilizando o qué base 
+de datos vas a utilizar y te preocupas únicamente por el desarrollo de tu 
+aplicación. Heroku ejecuta sus aplicaciones a traves de contenedores
+
+Requerimientos para usar los servicios de Heroku:
+1.  archivo Procfile en la raiz del proyecto
+2.  archivo requirements.txt
+3.  tener el proyecto subido a github, primero nos vamos a github y creamos un
+    proyecto.
+4.  archivo .gitignore con la información que queremos que se ignore
+
+comandos de git:
+--> git init
+
